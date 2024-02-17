@@ -1,5 +1,5 @@
 import React from "react";
-import wepetition from "./images/WePetition.png";
+import wepetition from "./images/wepetition.png";
 
 const Logo = () => {
   return (
